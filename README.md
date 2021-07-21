@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shyama088
 - 👀 I’m interested in data science
-- 🌱 I’m currently doing the online Applied ML course offered by Applied AI
+- 🌱 I’m currently pursuing the online Applied ML course offered by Applied AI
 
 
 <!---
