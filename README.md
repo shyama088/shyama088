@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shyama088
-- 👀 I’m interested in data science
+- 👀 I’m interested in Machine Learning, NLP and Recommendation Systems
 - 🌱 I’m currently pursuing the online Applied ML course offered by Applied AI
 
 
